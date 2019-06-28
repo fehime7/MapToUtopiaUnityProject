@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="appcenter_app_secret" translatable="false">b9335d74-9e92-47fd-b57a-e38a5b7035f5</string>
+  <string name="appcenter_initial_log_level" translatable="false">4</string>
+  <string name="appcenter_use_push" translatable="false">True</string>
+  <string name="appcenter_use_analytics" translatable="false">True</string>
+  <string name="appcenter_use_crashes" translatable="false">True</string>
+  <string name="appcenter_use_distribute" translatable="false">True</string>
+  <string name="appcenter_startup_type" translatable="false">0</string>
+</resources>

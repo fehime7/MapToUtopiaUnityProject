@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="card_12" size="0.200000 0.241067" />
+    <ImageTarget name="card_11" size="0.200000 0.240000" />
+    <ImageTarget name="card_10" size="0.200000 0.242359" />
+    <ImageTarget name="card_9" size="0.200000 0.238727" />
+    <ImageTarget name="card_8" size="0.200000 0.239467" />
+    <ImageTarget name="card_7" size="0.200000 0.240000" />
+    <ImageTarget name="card_6" size="0.200000 0.241067" />
+    <ImageTarget name="card_5" size="0.200000 0.240323" />
+    <ImageTarget name="card_4" size="0.200000 0.240000" />
+    <ImageTarget name="card_3" size="0.200000 0.241287" />
+    <ImageTarget name="card_2" size="0.200000 0.241287" />
+    <ImageTarget name="card_1" size="0.200000 0.240000" />
+    <ImageTarget name="Gardening_6_future" size="0.300000 0.424355" />
+    <ImageTarget name="Gardening_4_Yannis" size="0.400000 0.565807" />
+    <ImageTarget name="Gardening_7_ecevit" size="0.200000 0.282903" />
+    <ImageTarget name="Repair_7_ecevit" size="0.200000 0.282903" />
+    <ImageTarget name="Celebrate_7_ecevit" size="0.200000 0.282903" />
+    <ImageTarget name="sinagogue_3" size="1.000000 0.750000" />
+    <ImageTarget name="Repairing_5_football" size="0.300000 0.424355" />
+    <ImageTarget name="Repairing_2_school" size="0.300000 0.424355" />
+    <ImageTarget name="Gardening_2_school" size="0.300000 0.424355" />
+    <ImageTarget name="Celebrating_8_fisherman" size="0.300000 0.424355" />
+    <ImageTarget name="Celebrating_3_Church" size="0.300000 0.424355" />
+    <ImageTarget name="Celebrating_2_school" size="0.300000 0.424355" />
+    <ImageTarget name="sinagog_2" size="1.000000 0.548918" />
+    <ImageTarget name="Brain_synagogue" size="1.000000 0.822105" />
+    <ImageTarget name="Baby_Smily" size="1.000000 1.061111" />
+    <ImageTarget name="sinagog1" size="1.000000 0.874000" />
+  </Tracking>
+</QCARConfig>
